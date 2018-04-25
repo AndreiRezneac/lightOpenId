@@ -1,6 +1,6 @@
 {
-    "name" : "ar/loid",
+    "name": "ar/lightopenid",
     "autoload": {
-        "psr-0": { "LightOpenID": "" }
+        "psr-4": { "LightOpenID\\": "./" }
     }
 }
