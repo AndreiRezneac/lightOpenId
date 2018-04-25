@@ -1,7 +1,6 @@
 <?php
 
 /** from: https://github.com/e-Contract/eid-idp-php-example/blob/master/lightopenid/openid.php */
-namespace LightOpenId;
 
 /**
  * This class provides a simple interface for OpenID (1.1 and 2.0) authentication.
